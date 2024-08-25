@@ -2,6 +2,6 @@
 <ol>
   <li>C# (ASP.NET Core, related frameworks)</li>
   <li>JS, TS (React) + HTML/CSS</li>
-  <li>Python (solid knowledge)</li>
-  <li>C++, SQL</li>
+  <li>Python, SQL (solid knowledge)</li>
+  <li>C++ (basic knowledge)</li>
 </ol>
