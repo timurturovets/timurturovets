@@ -1,8 +1,22 @@
-<h1><b>Current stack</b></h1>
-<ol>
-  <li>C# (ASP.NET Core, related frameworks)</li>
-  <li>JS, TS (React) + HTML/CSS</li>
-  <li>C++ (RSU curriculum)</li>
-  <li>Python, SQL (solid knowledge)</li>
-  <li>C (basic knowledge, RSU curriculum)</li>
-</ol>
+<div align="center">
+  <h1>Тимур, 20 лет</h1>
+  <h3>Студент 2 курса направления Прикладная математика и информатика в РГУ им. А.Н.Косыгина</h3>
+  
+  <h2>Специализируюсь на Backend-разработке</h2>
+  
+  <p><strong>Использую:</strong> C#, JS/TS, ASP.NET Core, React, Node.JS</p>
+  <p><strong>Знаю:</strong> C, C++, SQL (в рамках программы ПМИ в РГУ), Python (aiogram), Vue</p>
+  <p><strong>Изучаю:</strong> golang</p>
+  
+  <h3>Связь:</h3>
+  <p>tg: @teletraann, vk: vk.com/teletraan</p>
+  
+  <h3>Избранные проекты:</h3>
+  <li><a href="https://github.com/timurturovets/GrandTripAPI">Бэкенд </a>проекта "Сайт с интересными туристическими маршрутами" в рамках проектной деятельности в СУНЦ КНИТУ-КАИ, 2023</li>
+  <li><a href="https://github.com/timurturovets/testsbaza">Пет-проект </a>"Сайт для создания и прохождения кастомизируемых тестирований", 2022</li>
+
+  <h3>Сейчас в работе:</h3>
+  <p>На данный момент я участвую в разработке и поддержке следующих проектов:</p>
+  <li>Телеграм-бот для Студенческого совета РГУ им. А.Н. Косыгина</li>
+  <li>Платформа для управления проектами и их реализации для Центра развития карьера и молодёжного предпринимательства РГУ им. А.Н. Косыгина</li>
+</div>
