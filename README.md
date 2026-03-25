@@ -1,20 +1,35 @@
-<h1>Тимур, 20 лет</h1>
-<h3>Студент 2 курса направления Прикладная математика и информатика в РГУ им. А.Н.Косыгина</h3>
+# Timur Turovets
 
-<h2>Специализируюсь на Backend-разработке</h2>
+Backend developer.
 
-<p><strong>Использую:</strong> C#, JS/TS, ASP.NET Core, React, Node.JS</p>
-<p><strong>Знаю:</strong> C, C++, SQL (в рамках программы ПМИ в РГУ), Python (aiogram), Vue</p>
-<p><strong>Изучаю:</strong> golang</p>
+Currently studying Applied Mathematics and Computer Science at Kosygin State University
 
-<h3>Связь:</h3>
-<p>tg: @teletraann, vk: vk.com/teletraan</p>
+Main stack: Go, TypeScript, C#
 
-<h3>Избранные проекты:</h3>
-<li><a href="https://github.com/timurturovets/GrandTripAPI">Бэкенд </a>проекта "Сайт с интересными туристическими маршрутами" в рамках проектной деятельности в СУНЦ КНИТУ-КАИ, 2023</li>
-<li><a href="https://github.com/timurturovets/testsbaza">Пет-проект </a>"Сайт для создания и прохождения кастомизируемых тестирований", 2022</li>
+---
 
-<h3>Сейчас в работе:</h3>
-<p>На данный момент я участвую в разработке и поддержке следующих проектов:</p>
-<li>Телеграм-бот для Студенческого совета РГУ им. А.Н. Косыгина</li>
-<li>Платформа для управления проектами и их реализации для Центра развития карьеры и молодёжного предпринимательства РГУ им. А.Н. Косыгина</li>
+## Tech Stack
+
+**Languages**
+
+Go • C# • TypeScript • JavaScript 
+
+**Backend**
+
+Gin • ASP.NET Core • Express • NATS
+
+**Databases**
+
+PostgreSQL • MySQL • MS SQL
+
+**Infrastructure**
+
+Docker • GitHub Actions • GitLab CI/CD
+
+---
+
+## Contacts
+
+Telegram: @teletraann
+Email: [timurturovets@mail.ru](mailto:timurturovets@mail.ru)
+VK: [vk.com/teletraan](https://vk.com/teletraan)
